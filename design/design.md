@@ -6,3 +6,4 @@ Continuation of:
 ## Rocinante: store, edit, query, navigate geo data
 
 - runs in docker
+- freedom, ownership, responsibility: microservices, so people have space, choice
