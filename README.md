@@ -1,3 +1,3 @@
 # rocinante
 
-- a mistaken attempt to propose "something"
+- a mistaken tempted attempt to propose "something"
